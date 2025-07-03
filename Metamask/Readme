@@ -1,0 +1,41 @@
+# 🏢💰 MetaMask Integration for Real Estate Investment Platform
+
+This project involved implementing the **MetaMask** digital wallet as a payment method on an innovative real estate investment platform.
+
+### Background  
+With the growing adoption of cryptocurrencies, the platform’s sellers decided to accept digital assets as payment for property transactions. To enable this digital transformation, I was contracted to integrate MetaMask directly into the system, allowing fast, secure, and transparent transactions.
+
+### What Was Done  
+- Full integration of the MetaMask wallet into the web platform  
+- Implementation of cryptocurrency payment flow (Ethereum and ERC-20 tokens)  
+- Ensured transaction security through digital signatures  
+- User-friendly interface enabling easy wallet connection and payments  
+- Real-time validation of transaction status on the blockchain  
+
+### Benefits  
+- Simplified international payments without banking intermediaries  
+- Secure, immutable, and transparent transactions  
+- Access to a global audience of real estate investors and buyers  
+- Platform modernization aligned with Web3 trends  
+
+---
+
+## 🚀 Technologies Used  
+- MetaMask Wallet  
+- Ethereum Blockchain & Smart Contracts  
+- Web3.js / Ethers.js for blockchain interaction  
+- Frontend with React/JavaScript  
+- Cryptographic security and validation  
+
+---
+
+## 📞 Contact  
+**Tiago Santos**  
+📧 sanguec@live.com  
+📱 +55 11 98222-8822  
+🔗 [LinkedIn](https://linkedin.com/in/tiagosants)  
+🐙 [GitHub](https://github.com/tiagosaants)
+
+---
+
+> A solution bridging traditional real estate markets with the decentralized crypto universe, delivering innovation and trust for all stakeholders.
